@@ -1,0 +1,461 @@
+------------------------------------
+--- File created by Amnesia tool ---
+------------------------------------
+
+
+----------------------------------
+--- Architecture Configuration ---
+----------------------------------
+
+--- Main Memory ---
+
+Memory size: 8 word(s) 
+Block size: 1 word(s)/block 
+Cycles per access read: 1 unity 
+Cycles per access write: 2 unity 
+Time cycle: 10 time unity 
+
+-------------------------
+---       Trace       ---
+-------------------------
+
+2 0
+2 1
+2 2
+2 3
+2 0
+2 1
+2 0
+2 1
+2 2
+2 1
+2 3
+2 2
+2 1
+2 0
+2 2
+2 3
+2 2
+2 1
+2 3
+2 0
+2 0
+2 3
+2 1
+2 2
+2 3
+2 2
+2 0
+2 1
+2 2
+2 3
+2 1
+2 2
+2 1
+2 0
+2 1
+2 0
+2 1
+2 3
+2 0
+2 0
+2 3
+2 1
+2 2
+2 3
+2 2
+2 0
+2 1
+2 2
+2 1
+2 0
+
+------------------------------
+---      Execution Log     ---
+------------------------------
+
+Location: MAINMEMORY
+Action = Stored data in Main Memory  
+Block = 0 
+
+
+Location: MAINMEMORY
+Action = Stored data in Main Memory  
+Block = 1 
+
+
+Location: MAINMEMORY
+Action = Stored data in Main Memory  
+Block = 2 
+
+
+Location: MAINMEMORY
+Action = Stored data in Main Memory  
+Block = 3 
+
+
+----------------------- Step: 001 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 002 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 003 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 004 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 005 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 006 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 007 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 008 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 009 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 010 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 011 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 012 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 013 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 014 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 015 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 016 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 017 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 018 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 019 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 020 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 021 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 022 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 023 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 024 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 025 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 026 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 027 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 028 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 029 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 030 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 031 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 032 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 033 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 034 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 035 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 036 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 037 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 038 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 039 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 040 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 041 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 042 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 043 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 044 to 050 || Trace: 2 3 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 3 
+
+
+----------------------- Step: 045 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 046 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+----------------------- Step: 047 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 048 to 050 || Trace: 2 2 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 2 
+
+
+----------------------- Step: 049 to 050 || Trace: 2 1 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 1 
+
+
+----------------------- Step: 050 to 050 || Trace: 2 0 -----------------------
+
+Location: MAINMEMORY
+Action = Loading data from Main Memory  
+Block = 0 
+
+
+------------------------------
+---       Statistics       ---
+------------------------------
+
+Main Memory
+  Read Access: 50
+  Read Cycles: 50
+  Read Time: 500
+  Write Access: 0
+  Write Cycles: 0
+  Write Time: 0
+  Total Access: 50
+  Total Time: 500
+
+ Total Time: 500
