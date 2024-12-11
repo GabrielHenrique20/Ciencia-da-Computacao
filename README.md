@@ -1,4 +1,5 @@
 Repositório de Ciência da Computação 🎓💻
+
 Bem-vindo(a) ao meu repositório de Ciência da Computação! 📂 Este espaço reúne códigos, projetos e materiais que desenvolvi ao longo do curso. Embora esteja seguindo um novo caminho, espero que o conteúdo aqui presente possa ser útil para quem está explorando as fascinantes áreas da computação.
 
 Você encontrará soluções práticas, conceitos teóricos e implementações que abrangem disciplinas como algoritmos, estruturas de dados, banco de dados, programação orientada a objetos, entre outras. 🌐🖥️
