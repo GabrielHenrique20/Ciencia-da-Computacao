@@ -8,8 +8,10 @@ Sinta-se à vontade para explorar, contribuir ou utilizar este material nos seus
 
 Estou de saída para outro curso, porém sei que o que aprendi aqui ao longo de 3 anos vai me ajudar bastante no futuro, e quero retribuir o favor a todos os alunos e projetos que me ajudaram nesse "curto período".
 
+👩‍💻👨‍💻 **Bom aprendizado e boas linhas de código!**
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c5d6b696-5651-4095-a07c-b176ec6eee5e" alt="Imagem ilustrativa" width="70%">
 </div>
 
-👩‍💻👨‍💻 **Bom aprendizado e boas linhas de código!**
+
