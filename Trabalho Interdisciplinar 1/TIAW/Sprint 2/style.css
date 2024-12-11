@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(248, 100%, 63%);
+}
+
+label {
+    font-weight: bolder;
+}
+::placeholder {
+    color: rgb(0, 0, 0) !important;
+    opacity: 3;
+}
+::-webkit-input-placeholder {
+    color:  rgb(0, 0, 0) !important;
+}
+:-moz-placeholder {
+    color:  rgb(0, 0, 0) !important;
+    opacity:  3;
+ }
+ h1 {
+     text-align: center;
+     background-color: blanchedalmond;
+
+ }
+ #msg {
+     height: 60px;
+ }
+ #grid-contatos tbody {
+     cursor: pointer;
+     background-color: rgb(185, 185, 185);
+ }
+
+ 
+
+ 
+ 
+
+
+ 
