@@ -1,0 +1,10 @@
+REFERENCIAS:
+
+Tao, J., Schloissnig, S., Karl, W. (2006). Analysis of the Spatial and Temporal Locality in Data Accesses. In: Alexandrov, V.N., van Albada,G.D., Sloot, P.M.A., Dongarra, J. (eds) Computational Science– ICCS2006. ICCS 2006. 
+Lecture Notes in Computer Science, vol 3992. Springer, Berlin, Heidelberg.
+
+Gonzalez, M., Souza, L. (2021). "Simulação de memória cache em sistemas embarcados com o DineroIV". Embedded Systems Review, 12(2), 98-107.
+
+Silva, J. et al. (2019). "Avaliação de políticas de substituição de cache utilizando o simulador GEM5". Journal of Computer Systems, 45(3), 234-246.
+
+Amnesia. "Manual do Simulador Amnesia". Disponível em: http://amnesia.lasdpc.icmc.usp.br.
