@@ -11,7 +11,5 @@ Estou de saída para outro curso, porém sei que o que aprendi aqui ao longo de 
 👩‍💻👨‍💻 **Bom aprendizado e boas linhas de código!**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c5d6b696-5651-4095-a07c-b176ec6eee5e" alt="Imagem ilustrativa" width="70%">
+  <img src="https://github.com/user-attachments/assets/9b8aaad1-0f0e-4670-829c-b4856d25ef53" alt="Imagem ilustrativa" width="70%">
 </div>
-
-
