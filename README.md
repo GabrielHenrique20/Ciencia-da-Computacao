@@ -10,7 +10,7 @@ Estou de saída para outro curso, porém sei que o que aprendi aqui ao longo de 
 
 👩‍💻👨‍💻 **Bom aprendizado e boas linhas de código!**
 
-<p style="color:red;">**OBS: É importante destacar que nem todas as matérias que fiz ao longo desses períodos vão estar presentes nesse repositório, tendo em vista que comecei a mexer com o GitHub um pouco tarde. Então, sempre tente buscar em outros repositórios também!!**</p>
+**OBS: É importante destacar que nem todas as matérias que fiz ao longo desses períodos vão estar presentes nesse repositório, tendo em vista que comecei a mexer com o GitHub um pouco tarde. Então, sempre tente buscar em outros repositórios também!!**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9b8aaad1-0f0e-4670-829c-b4856d25ef53" alt="Imagem ilustrativa" width="70%">
