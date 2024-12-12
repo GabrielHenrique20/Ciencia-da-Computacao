@@ -18,3 +18,6 @@ resultados, comparar produtos e receber recomendações com base em suas prefer�
 ## Instruções de utilização
 
 [Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
+
+
+![9jc37blg](https://github.com/user-attachments/assets/7e4c1db4-9883-4f73-b2d6-2a2117fc12fe)
