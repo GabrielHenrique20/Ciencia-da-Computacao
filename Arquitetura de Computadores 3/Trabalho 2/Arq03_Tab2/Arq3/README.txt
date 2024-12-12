@@ -9,3 +9,10 @@ Equipe de desenvolvedores do projeto:
     Lucas de Oliveira Lopes
     Pedro Miranda Rodrigues
     Vinícius Simões Viana
+
+execução do projeto 
+
+[angular necessário] - npm install -g @angular/cli
+
+npm i -- instalar as depencencias
+npm start -- iniciar o projeto
